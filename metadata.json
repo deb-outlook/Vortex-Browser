@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Browser",
+  "description": "Secure Android web browser featuring built-in 3D-feeling VPN tunnel, powerful custom ad-blocking logs, speed widgets, threat monitors, and speed dial bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
