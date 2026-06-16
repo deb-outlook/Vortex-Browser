@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep Space/Dark Energy Atmosphere behind the Vortex Dynamic Swirls -->
+    <path
+        android:fillColor="#0B0C10"
+        android:pathData="M54,16 C74.99,16 92,33.01 92,54 C92,74.99 74.99,92 54,92 C33.01,92 16,74.99 16,54 C16,33.01 33.01,16 54,16 Z" />
+
+    <!-- Left Wing Vortex Swirl (Nexus Blue) -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,24 C37.43,24 24,37.43 24,54 C24,70.57 37.43,84 54,84 C62.29,84 69.79,80.64 75.22,75.22 L66.74,66.74 C63.51,69.97 58.99,72 54,72 C44.06,72 36,63.94 36,54 C36,44.06 44.06,36 54,36 C58.99,36 63.51,38.03 66.74,41.26 L75.22,32.78 C69.79,27.36 62.29,24 54,24 Z" />
+
+    <!-- Symmetrical Interlocking Right Swirl (Neon Cyan) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,30 C40.75,30 30,40.75 30,54 C30,67.25 40.75,78 54,78 C60.63,78 66.63,75.31 71,70.95 L62.51,62.46 C59.62,65.35 55.62,67.15 54,67.15 C46.74,67.15 40.85,61.26 40.85,54 C40.85,46.74 46.74,40.85 54,40.85 C55.62,40.85 59.62,42.65 62.51,45.54 L71,37.05 C66.63,32.69 60.63,30 54,30 Z" />
+
+    <!-- Center Security Hub Core/Lock Symbol embedded inside the swirling center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,46 C58.42,46 62,49.58 62,54 C62,58.42 58.42,62 54,62 C49.58,62 46,58.42 46,54 C46,49.58 49.58,46 54,46 Z" />
+    <path
+        android:fillColor="#0F1113"
+        android:pathData="M54,49 C51.24,49 49,51.24 49,54 C49,56.76 51.24,59 54,59 C56.76,59 59,56.76 59,54 C59,51.24 56.76,49 54,49 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,51 H55 V57 H53 Z M52,53 H56 V54 H52 Z" />
+</vector>
