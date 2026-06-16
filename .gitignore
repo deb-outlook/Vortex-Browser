@@ -1,1 +1,32 @@
-*
+# Gradle files
+.gradle/
+build/
+.DS_Store
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+.classpath
+.project
+.settings/
+*.swp
+*~.nib
+local.properties
+proguard-rules.pro
+
+# IDEs
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
