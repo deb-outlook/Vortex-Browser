@@ -1,1 +1,15 @@
 
+workflows:
+  android-build:
+    name: Android Build
+    instance_type: mac_mini_m2
+
+    environment:
+      java: 17
+
+    scripts:
+      - chmod +x gradlew
+      - ./gradlew assembleDebug
+
+    artifacts:
+      - app/build/outputs/**/*.apk
